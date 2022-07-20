@@ -6,7 +6,7 @@
   var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
   //loop through all the names
-  for (var indx in names) {
+  for (var m in names) {
     //select lowercase of firt letter from name array
     var firstLetter = names[m].charAt(0).toLowerCase(); 
 
