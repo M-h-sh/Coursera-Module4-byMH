@@ -7,7 +7,7 @@
   		console.log(speakWord + " " + name);
 	}
 
-window.byeS = bye;
+window.bye = bye;
 
 })(window);
 
